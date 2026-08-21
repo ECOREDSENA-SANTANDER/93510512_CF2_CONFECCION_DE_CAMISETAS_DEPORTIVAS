@@ -78,13 +78,13 @@
             td Tejido técnico microperforado.
             td Alta transpirabilidad, bajo gramaje, rápida evaporación, ligereza.
             td Hilo poliéster fino, cinta tapacostura, estampado por sublimación.
-            td Reduce carga térmica y mejora confort en uso prolongado.
+            td Reduce carga térmica y mejora #[em confort] en uso prolongado.
             td Camiseta para fútbol, atletismo o eventos deportivos.
 
           tr
             td #[b Uso recreativo]
             td Algodón con poliéster.
-            td Tacto suave, absorción moderada, mayor confort al contacto, resistencia media.
+            td Tacto suave, absorción moderada, mayor #[em confort] al contacto, resistencia media.
             td Hilo poliéster, sesgo o #[i rib], etiqueta tejida.
             td Combina comodidad y resistencia para actividades de baja exigencia.
             td Camiseta para caminata, uniforme recreativo o promoción.
@@ -130,7 +130,7 @@
 
           tr
             td #[b Elegir una tela muy pesada para uso deportivo intensivo]
-            td Aumenta carga térmica y dificulta el confort.
+            td Aumenta carga térmica y dificulta el #[em confort].
             td Produce sensación de calor y menor transpirabilidad.
             td Priorizar tejidos livianos con rápida evaporación.
 
@@ -221,7 +221,7 @@
 
     figure.mb-4
       .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/GrVxMBnoups&t=3s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/GrVxMBnoups?si=ELzj-HqndLYanU5y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
       figcaption Video: introducción al trazo y corte
 
     .cajon.color-secundario.p-4.mb-4
@@ -382,7 +382,7 @@
                 td.text-center —
 
               tr
-                td La talla del paquete coincide con el ticket de identificación.
+                td La talla del paquete coincide con el #[em ticket] de identificación.
                 td.text-center —
                 td.text-center —
 

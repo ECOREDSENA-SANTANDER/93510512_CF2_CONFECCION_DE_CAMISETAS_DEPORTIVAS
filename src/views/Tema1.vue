@@ -153,7 +153,7 @@
           img(src='@/assets/curso/temas/t1/fig4.svg', alt='Diagrama de distribución industrial para confección de prendas. Incluye estaciones de trabajo, mesas, áreas de material y empaque, organizadas según el flujo de ensamble y las operaciones de producción.')
 
       .titulo-sexto.color-acento-contenido(data-aos='fade-right')
-        h5 Tabla 3.
+        h5 Tabla 2.
         span Comparación de esquemas de distribución de planta en talleres de confección
       .tabla-a.color-acento-botones.mb-3
         table

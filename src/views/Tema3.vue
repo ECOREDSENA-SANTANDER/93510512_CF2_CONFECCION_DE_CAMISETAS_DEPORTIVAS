@@ -65,7 +65,7 @@
             .col-lg-2.mb-4.mb-md-0.col-7.col-md-4
               img.mb-4(src="@/assets/curso/temas/t3/3.png")
             .col-lg-4
-              h4 Enhebrado del hilo para looper inferior
+              h4 Enhebrado del hilo para #[em looper] inferior
               p Consulte el video:
               .col-sm-auto
                 a.boton.color-acento-botones.texto-blanco(
@@ -79,7 +79,7 @@
             .col-lg-2.mb-4.mb-md-0.col-7.col-md-4
               img.mb-4(src="@/assets/curso/temas/t3/4.png")
             .col-lg-4
-              h4 Enhebrado del hilo para looper superior
+              h4 Enhebrado del hilo para #[em looper] superior
               p Consulte el video:
               .col-sm-auto
                 a.boton.color-acento-botones.texto-blanco(
@@ -121,7 +121,7 @@
             .col-lg-2.mb-4.mb-md-0.col-7.col-md-4
               img.mb-4(src="@/assets/curso/temas/t3/7.png")
             .col-lg-6
-              h4 Enhebrado del hilo para looper de puntada de seguridad
+              h4 Enhebrado del hilo para #[em looper] de puntada de seguridad
               p Consulte el video:
               .col-sm-auto
                 a.boton.color-acento-botones.texto-blanco(

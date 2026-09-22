@@ -53,6 +53,26 @@
           figure
             img(src='@/assets/curso/temas/t4/img04.png', alt='')
       
+    .row.justify-content-start.mb-4(data-aos="zoom-in-left")
+      .col-sm-12.col-lg-12
+        .d-flex.align-items-center
+          img.w-card-icon(src="@/assets/curso/temas/t1/camisa.svg")
+          h3.bg2.py-2.w-card-text Riesgos mecánicos en el entorno de confección
+    p Los riesgos mecánicos se derivan del contacto directo o indirecto con la maquinaria, las herramientas de corte y los materiales empleados durante el proceso productivo. Su prevención requiere reconocer las fuentes de peligro, utilizar correctamente los equipos y mantener el puesto de trabajo organizado.
+
+
+    
+    
+    AcordionA(tipo="a" clase-tarjeta="tarjeta tarjeta--azul").mb-4(data-aos="zoom-in-left")
+      .row.justify-content-center(titulo="Contacto con la aguja")
+        .col-lg-6.mb-3.col-10
+          p El contacto de los dedos con la aguja en movimiento puede ocurrir por pérdida de concentración, ubicación incorrecta de las manos o adopción de posturas inadecuadas frente al equipo. 
+
+          p Para prevenir este riesgo, se deben mantener las manos alejadas del recorrido de la aguja, utilizar las guardas de seguridad, detener la máquina antes de realizar ajustes y conservar una posición adecuada durante la operación. 
+        .col-lg-5.col-11
+          figure
+            img(src='@/assets/curso/temas/t4/agua.png', alt='')
+
       .row.justify-content-center(titulo="Atrapamiento en partes móviles")
         .col-lg-6.mb-3.col-10
           p El atrapamiento puede presentarse cuando las extremidades, el cabello, los accesorios o las prendas de vestir entran en contacto con las partes móviles de la maquinaria.
@@ -199,7 +219,7 @@
           .tarjeta.bg-white.p-4
             TarjetaAudio.color-secundario.mb-0.p-3(
             texto="Podcast: Tu cuerpo también es parte del equipo"
-            :audio="require_src('@/assets/curso/temas/t4/podcast.png')"
+            :audio="require_src('@/assets/curso/temas/t4/podcast.mp3')"
         )
             .indicador--click(v-if="mostrarIndicadorTarjetaAudio")
            

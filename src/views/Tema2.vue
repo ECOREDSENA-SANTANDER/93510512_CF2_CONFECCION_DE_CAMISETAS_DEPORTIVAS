@@ -221,7 +221,7 @@
 
     figure.mb-4
       .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/GrVxMBnoups?si=ELzj-HqndLYanU5y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/pTwuCeaeTVI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
       figcaption Video: introducción al trazo y corte
 
     .cajon.color-secundario.p-4.mb-4
@@ -229,7 +229,7 @@
 
     figure.mb-4
       .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/AQuKp0yivEw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/-nkWodY_bPE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
       figcaption Video: ejemplo de tipos de tendido con diferentes características del material
 
     p Los conceptos y procedimientos presentados en los videos permiten identificar las condiciones técnicas que deben controlarse durante el tendido, el marcado y el corte. Asimismo, facilitan el reconocimiento de las desviaciones más frecuentes que pueden afectar la precisión de estas operaciones y comprometer la calidad de las piezas obtenidas. A continuación, se presentan algunos de los errores más comunes asociados con estas actividades y sus consecuencias en el proceso de confección.

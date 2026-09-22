@@ -17,11 +17,8 @@
 
       p Un puesto de trabajo diseñado bajo criterios técnicos favorece la continuidad operativa, disminuye los desplazamientos innecesarios, reduce la fatiga derivada de posturas sostenidas o movimientos repetitivos y fortalece el control de los riesgos asociados con la actividad. También incide en la precisión de las operaciones, la adecuada manipulación de herramientas y equipos, y la conservación de ritmos de trabajo compatibles con las metas de producción establecidas. Por esta razón, el puesto de trabajo no debe entenderse como un espacio aislado dentro de la planta, sino como una unidad funcional determinante para el desempeño global del sistema productivo en la confección industrial.
 
-      .row.justify-content-center.align-items-end.mb-4.fondo01(data-aos="zoom-in-left")
-        .col-lg-7.col-md-10
-          .titulo-sexto.color-acento-contenido(data-aos='fade-right')
-            h5 Figura 1. 
-            span Puesto de trabajo en confección
+      .row.justify-content-center.align-items-end.mb-4(data-aos="zoom-in-left")
+        .col-lg-12.col-md-10
           img(src='@/assets/curso/temas/t1/fig1.png', alt='')
 
       .row.justify-content-start.mb-4(data-aos="zoom-in-left")
@@ -135,20 +132,20 @@
       .row.justify-content-center.align-items-end.mb-4.fondo01(data-aos="zoom-in-left")
         .col-lg-7.col-md-10
           .titulo-sexto.color-acento-contenido(data-aos='fade-right')
-            h5 Figura 2. 
+            h5 Figura 1. 
             span Distribución modular en U
           img(src='@/assets/curso/temas/t1/fig2.svg', alt='Esquema de una distribución modular en forma de U, con máquinas y puestos de trabajo ubicados alrededor de un espacio central para facilitar la circulación de materiales y la interacción entre las operaciones.')
       .row.justify-content-center.align-items-end.mb-4.fondo01
         .col-lg-7.col-md-10
           .titulo-sexto.color-acento-contenido(data-aos='fade-right')
-            h5 Figura 3. 
+            h5 Figura 2. 
             span Distribución modular en cara a cara
           img(src='@/assets/curso/temas/t1/fig3.svg', alt='Esquema de una distribución modular con puestos de trabajo ubicados frente a frente, conectados mediante un flujo interno de materiales y operaciones.')
 
       .row.justify-content-center.align-items-end.mb-4
         .col-lg-12.col-md-12
           .titulo-sexto.color-acento-contenido(data-aos='fade-right')
-            h5 Figura 4. 
+            h5 Figura 3. 
             span Distribución lineal en planta
           img(src='@/assets/curso/temas/t1/fig4.svg', alt='Diagrama de distribución industrial para confección de prendas. Incluye estaciones de trabajo, mesas, áreas de material y empaque, organizadas según el flujo de ensamble y las operaciones de producción.')
 
@@ -202,7 +199,7 @@
 
             .col-lg-8.col-md-10
               .titulo-sexto.color-acento-boton(data-aos='fade-right')
-                h5 Figura 5. 
+                h5 Figura 4. 
                 span Diseño de un puesto de trabajo para ensamble de camiseta deportiva
               figure
                 img(src='@/assets/curso/temas/t1/fig6.svg', alt='Esquema de estación de confección con organización de piezas de una prenda. Se ubican las partes de espalda, delantero y hombros unidos alrededor del puesto de trabajo.')
@@ -215,7 +212,7 @@
 
             .col-lg-8.col-md-10
               .titulo-sexto.color-acento-boton(data-aos='fade-right')
-                h5 Figura 6. 
+                h5 Figura 5. 
                 span Disposición del puesto de trabajo
               figure
                 img(src='@/assets/curso/temas/t1/fig5.svg', alt='Esquema de puesto de trabajo con áreas organizadas para distribución de materiales. Se indican recorridos de movimiento entre zonas identificadas con números romanos y trayectorias señaladas mediante flechas.')

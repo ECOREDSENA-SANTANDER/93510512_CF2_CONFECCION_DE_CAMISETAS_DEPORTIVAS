@@ -324,7 +324,7 @@
               h4 Alistamiento de herramientas y elementos
               p Consulte el video:
               .col-sm-auto
-                a.boton.color-acento-botones.texto-blanco( href="https://www.youtube.com/watch?v=BlsIooZH9gg&list=PLkc5n6npRWkjS1Oni_VR8m2ZJh2pb3E6C&index=13" target="_blank")
+                a.boton.color-acento-botones.texto-blanco( href="https://www.youtube.com/watch?v=8KMdKLsGeXI&t=4s" target="_blank")
                   span Abrir video
                   i.fas.fa-file-video
           .row(titulo="Paso 2" subtitulo="")(data-aos="zoom-in-left")
@@ -579,7 +579,7 @@
               h4 Alistamiento para la confección de la camiseta tipo polo
               p Consulte el video:  
               .col-sm-auto
-                a.boton.color-acento-botones.texto-blanco( href="https://www.youtube.com/watch?v=wsb9glAu1qk&list=PLkc5n6npRWkjH9BnFJlUpDKgV0Zk3yhVe&index=10" target="_blank")
+                a.boton.color-acento-botones.texto-blanco( href="https://www.youtube.com/watch?v=GxxciqbSif8" target="_blank")
                   span Abrir video
                   i.fas.fa-file-video
 
@@ -590,7 +590,7 @@
               h4 Prehormado de la pechera y elaboración del quiebre en el delantero
               p Consulte el video:
               .col-sm-auto
-                a.boton.color-acento-botones.texto-blanco(href="https://www.youtube.com/watch?v=v_yemOgg9Rw&list=PLkc5n6npRWkjH9BnFJlUpDKgV0Zk3yhVe&index=9" target="_blank")
+                a.boton.color-acento-botones.texto-blanco(href="https://www.youtube.com/watch?v=f_9WdP3DafQ&feature=youtu.be" target="_blank")
                   span Abrir video
                   i.fas.fa-file-video
 
@@ -601,7 +601,7 @@
               h4 Pegado de la pechera
               p Consulte el video:
               .col-sm-auto
-                a.boton.color-acento-botones.texto-blanco(href="https://www.youtube.com/watch?v=5B1k2XznFlg&list=PLkc5n6npRWkjH9BnFJlUpDKgV0Zk3yhVe&index=18" target="_blank")
+                a.boton.color-acento-botones.texto-blanco(href="https://www.youtube.com/watch?v=PmFD-3055Hc&feature=youtu.be" target="_blank")
                   span Abrir video
                   i.fas.fa-file-video
 
@@ -612,7 +612,7 @@
               h4 Unión por los hombros
               p Consulte el video:
               .col-sm-auto
-                a.boton.color-acento-botones.texto-blanco(href="https://www.youtube.com/watch?v=rBrE6bikCRw&list=PLkc5n6npRWkjH9BnFJlUpDKgV0Zk3yhVe&index=8" target="_blank")
+                a.boton.color-acento-botones.texto-blanco(href="https://www.youtube.com/watch?v=pXhseaUwEiU&feature=youtu.be" target="_blank")
                   span Abrir video
                   i.fas.fa-file-video
 
@@ -623,7 +623,7 @@
               h4 Pegado de los puños tejidos a las mangas
               p Consulte el video:
               .col-sm-auto
-                a.boton.color-acento-botones.texto-blanco(href="https://www.youtube.com/watch?v=WiAEkGtqQG4&list=PLkc5n6npRWkjH9BnFJlUpDKgV0Zk3yhVe&index=7" target="_blank")
+                a.boton.color-acento-botones.texto-blanco(href="https://www.youtube.com/watch?v=4Gaoq4UXS38&feature=youtu.be7" target="_blank")
                   span Abrir video
                   i.fas.fa-file-video
 
@@ -634,7 +634,7 @@
               h4 Pespunte de los puños de las mangas
               p Consulte el video:
               .col-sm-auto
-                a.boton.color-acento-botones.texto-blanco(href="https://www.youtube.com/watch?v=HBleW0yTvAg&list=PLkc5n6npRWkjH9BnFJlUpDKgV0Zk3yhVe&index=6" target="_blank")
+                a.boton.color-acento-botones.texto-blanco(href="https://www.youtube.com/watch?v=KGyGr7YWwlc&feature=youtu.be" target="_blank")
                   span Abrir video
                   i.fas.fa-file-video
 
@@ -645,7 +645,7 @@
               h4 Pespunte de los hombros
               p Consulte el video:
               .col-sm-auto
-                a.boton.color-acento-botones.texto-blanco(href="https://www.youtube.com/watch?v=SKK9Trf8254&list=PLkc5n6npRWkjH9BnFJlUpDKgV0Zk3yhVe&index=5" target="_blank")
+                a.boton.color-acento-botones.texto-blanco(href="https://www.youtube.com/watch?v=9ROecwywjF8&feature=youtu.be" target="_blank")
                   span Abrir video
                   i.fas.fa-file-video
 
@@ -656,7 +656,7 @@
               h4 Fijación de las puntas del cuello
               p Consulte el video:
               .col-sm-auto
-                a.boton.color-acento-botones.texto-blanco(href="https://www.youtube.com/watch?v=Z_XH8YaJIlA&list=PLkc5n6npRWkjH9BnFJlUpDKgV0Zk3yhVe&index=4" target="_blank")
+                a.boton.color-acento-botones.texto-blanco(href="https://www.youtube.com/watch?v=4UtnlTOmWoM&feature=youtu.be" target="_blank")
                   span Abrir video
                   i.fas.fa-file-video
 
@@ -667,7 +667,7 @@
               h4 Pegado del cuello
               p Consulte el video:
               .col-sm-auto
-                a.boton.color-acento-botones.texto-blanco(href="https://www.youtube.com/watch?v=NXY9Tb77E3o&list=PLkc5n6npRWkjH9BnFJlUpDKgV0Zk3yhVe&index=3" target="_blank")
+                a.boton.color-acento-botones.texto-blanco(href="https://www.youtube.com/watch?v=q5QU4Bjl9Us&feature=youtu.be" target="_blank")
                   span Abrir video
                   i.fas.fa-file-video
 
@@ -678,7 +678,7 @@
               h4 Pespuntar cuello
               p Consulte el video:
               .col-sm-auto
-                a.boton.color-acento-botones.texto-blanco(href="https://www.youtube.com/watch?v=9c0_G42xbeI&list=PLkc5n6npRWkjH9BnFJlUpDKgV0Zk3yhVe&index=3" target="_blank")
+                a.boton.color-acento-botones.texto-blanco(href="https://www.youtube.com/watch?v=dgra9H5rsNs&feature=youtu.be" target="_blank")
                   span Abrir video
                   i.fas.fa-file-video
 
@@ -689,7 +689,7 @@
               h4 Pespuntar pechera
               p Consulte el video:
               .col-sm-auto
-                a.boton.color-acento-botones.texto-blanco(href="https://www.youtube.com/watch?v=Eth7yvWIiEc&list=PLkc5n6npRWkjH9BnFJlUpDKgV0Zk3yhVe&index=2" target="_blank")
+                a.boton.color-acento-botones.texto-blanco(href="https://www.youtube.com/watch?v=cQC2lnqP28g&feature=youtu.be" target="_blank")
                   span Abrir video
                   i.fas.fa-file-video
 
@@ -700,7 +700,7 @@
               h4 Pegado de las mangas
               p Consulte el video:
               .col-sm-auto
-                a.boton.color-acento-botones.texto-blanco(href="https://www.youtube.com/watch?v=K571s6w4_Xg&list=PLkc5n6npRWkjH9BnFJlUpDKgV0Zk3yhVe&index=17" target="_blank")
+                a.boton.color-acento-botones.texto-blanco(href="https://www.youtube.com/watch?v=9mjr679sZ80&feature=youtu.be" target="_blank")
                   span Abrir video
                   i.fas.fa-file-video
 
@@ -711,7 +711,7 @@
               h4 Pespunte de las mangas
               p Consulte el video:
               .col-sm-auto
-                a.boton.color-acento-botones.texto-blanco(href="https://www.youtube.com/watch?v=Dh4-NQONpuY&list=PLkc5n6npRWkjH9BnFJlUpDKgV0Zk3yhVe&index=16" target="_blank")
+                a.boton.color-acento-botones.texto-blanco(href="https://www.youtube.com/watch?v=fjqCrEJelIs&feature=youtu.be" target="_blank")
                   span Abrir video
                   i.fas.fa-file-video
 
@@ -722,7 +722,7 @@
               h4 Unión de la prenda por los costados
               p Consulte el video:
               .col-sm-auto
-                a.boton.color-acento-botones.texto-blanco(href="https://www.youtube.com/watch?v=oEu8URPgkVI&list=PLkc5n6npRWkjH9BnFJlUpDKgV0Zk3yhVe&index=15" target="_blank")
+                a.boton.color-acento-botones.texto-blanco(href="https://www.youtube.com/watch?v=A5nrkUIw9Dc&feature=youtu.be" target="_blank")
                   span Abrir video
                   i.fas.fa-file-video
 
@@ -733,7 +733,7 @@
               h4 Fileteado de la pechera
               p Consulte el video:
               .col-sm-auto
-                a.boton.color-acento-botones.texto-blanco(href="https://www.youtube.com/watch?v=qpEL-O1k2I0&list=PLkc5n6npRWkjH9BnFJlUpDKgV0Zk3yhVe&index=14" target="_blank")
+                a.boton.color-acento-botones.texto-blanco(href="https://www.youtube.com/watch?v=gJpodU4OigE&feature=youtu.be" target="_blank")
                   span Abrir video
                   i.fas.fa-file-video
 
@@ -744,7 +744,7 @@
               h4 Dobladillado del ruedo
               p Consulte el video:
               .col-sm-auto
-                a.boton.color-acento-botones.texto-blanco(href="https://www.youtube.com/watch?v=CBhvm1ICgs8&list=PLkc5n6npRWkjH9BnFJlUpDKgV0Zk3yhVe&index=13" target="_blank")
+                a.boton.color-acento-botones.texto-blanco(href="https://www.youtube.com/watch?v=InQ-rwhX5YY&feature=youtu.be" target="_blank")
                   span Abrir video
                   i.fas.fa-file-video
 
@@ -755,7 +755,7 @@
               h4 Marcado y elaboración de los ojales
               p Consulte el video:
               .col-sm-auto
-                a.boton.color-acento-botones.texto-blanco(href="https://www.youtube.com/watch?v=e2WGjWOmIzA&list=PLkc5n6npRWkjH9BnFJlUpDKgV0Zk3yhVe&index=12" target="_blank")
+                a.boton.color-acento-botones.texto-blanco(href="https://www.youtube.com/watch?v=xg6aFVMhqB8&feature=youtu.be" target="_blank")
                   span Abrir video
                   i.fas.fa-file-video
 
@@ -766,7 +766,7 @@
               h4 Marcado y colocación de los botones
               p Consulte el video:
               .col-sm-auto
-                a.boton.color-acento-botones.texto-blanco(href="https://www.youtube.com/watch?v=BYFyy5WU-Uo&list=PLkc5n6npRWkjH9BnFJlUpDKgV0Zk3yhVe&index=11" target="_blank")
+                a.boton.color-acento-botones.texto-blanco(href="https://www.youtube.com/watch?v=itZY6iaoWPo&feature=youtu.be" target="_blank")
                   span Abrir video
                   i.fas.fa-file-video
 

@@ -42,7 +42,7 @@
               h4 Alistamiento de herramientas
               p Consulte el video:  
               .col-sm-auto
-                a.boton.color-acento-botones.texto-blanco( href="https://www.youtube.com/watch?v=BlsIooZH9gg&list=PLkc5n6npRWkjS1Oni_VR8m2ZJh2pb3E6C&index=13" target="_blank")
+                a.boton.color-acento-botones.texto-blanco( href="https://www.youtube.com/watch?v=flBQ_7Rpd6c" target="_blank")
                   span Abrir video
                   i.fas.fa-file-video
 
@@ -55,7 +55,7 @@
               p Consulte el video:
               .col-sm-auto
                 a.boton.color-acento-botones.texto-blanco(
-                  href="https://www.youtube.com/watch?v=wtHBYpvY2qg&list=PLkc5n6npRWkjS1Oni_VR8m2ZJh2pb3E6C&index=14"
+                  href="https://www.youtube.com/watch?v=Irek1OJp0Fo"
                   target="_blank"
                 )
                   span Abrir video
@@ -69,7 +69,7 @@
               p Consulte el video:
               .col-sm-auto
                 a.boton.color-acento-botones.texto-blanco(
-                  href="https://www.youtube.com/watch?v=e3VIQuI2CPc&list=PLkc5n6npRWkjS1Oni_VR8m2ZJh2pb3E6C&index=5"
+                  href="https://www.youtube.com/watch?v=0kYGQjMeHLs"
                   target="_blank"
                 )
                   span Abrir video
@@ -83,7 +83,7 @@
               p Consulte el video:
               .col-sm-auto
                 a.boton.color-acento-botones.texto-blanco(
-                  href="https://www.youtube.com/watch?v=C60vi8djPhA&list=PLkc5n6npRWkjS1Oni_VR8m2ZJh2pb3E6C&index=4"
+                  href="https://www.youtube.com/watch?v=DOG6D5bEt-Y"
                   target="_blank"
                 )
                   span Abrir video
@@ -97,7 +97,7 @@
               p Consulte el video:
               .col-sm-auto
                 a.boton.color-acento-botones.texto-blanco(
-                  href="https://www.youtube.com/watch?v=7MPnUCYW0Qg&list=PLkc5n6npRWkjS1Oni_VR8m2ZJh2pb3E6C&index=3"
+                  href="https://www.youtube.com/watch?v=j5Jh83__Pa0"
                   target="_blank"
                 )
                   span Abrir video
@@ -111,7 +111,7 @@
               p Consulte el video:
               .col-sm-auto
                 a.boton.color-acento-botones.texto-blanco(
-                  href="https://www.youtube.com/watch?v=Y4GHFnR_Hq0&list=PLkc5n6npRWkjS1Oni_VR8m2ZJh2pb3E6C&index=6"
+                  href="https://www.youtube.com/watch?v=212I54SfmfA"
                   target="_blank"
                 )
                   span Abrir video
@@ -125,7 +125,7 @@
               p Consulte el video:
               .col-sm-auto
                 a.boton.color-acento-botones.texto-blanco(
-                  href="https://www.youtube.com/watch?v=Y_KBM8O2lIY&list=PLkc5n6npRWkjS1Oni_VR8m2ZJh2pb3E6C&index=2"
+                  href="https://www.youtube.com/watch?v=EReJD8K1U9I"
                   target="_blank"
                 )
                   span Abrir video
@@ -139,7 +139,7 @@
               p Consulte el video:
               .col-sm-auto
                 a.boton.color-acento-botones.texto-blanco(
-                  href="https://www.youtube.com/watch?v=uv3mjlOymIE&list=PLkc5n6npRWkjS1Oni_VR8m2ZJh2pb3E6C&index=12"
+                  href="https://www.youtube.com/watch?v=I1AUWjZJ4No"
                   target="_blank"
                 )
                   span Abrir video
@@ -153,7 +153,7 @@
               p Consulte el video:
               .col-sm-auto
                 a.boton.color-acento-botones.texto-blanco(
-                  href="https://www.youtube.com/watch?v=PMS6lRthWnQ&list=PLkc5n6npRWkjS1Oni_VR8m2ZJh2pb3E6C&index=10"
+                  href="https://www.youtube.com/watch?v=kIBGQ1-UNPk"
                   target="_blank"
                 )
                   span Abrir video
@@ -167,7 +167,7 @@
               p Consulte el video:
               .col-sm-auto
                 a.boton.color-acento-botones.texto-blanco(
-                  href="https://www.youtube.com/watch?v=Cf2gPlXy88s&list=PLkc5n6npRWkjS1Oni_VR8m2ZJh2pb3E6C&index=9"
+                  href="https://www.youtube.com/watch?v=Vmqb8gsw8Ys"
                   target="_blank"
                 )
                   span Abrir video
@@ -181,7 +181,7 @@
               p Consulte el video:
               .col-sm-auto
                 a.boton.color-acento-botones.texto-blanco(
-                  href="https://www.youtube.com/watch?v=Nz1r5rl-xXQ&list=PLkc5n6npRWkjS1Oni_VR8m2ZJh2pb3E6C&index=8"
+                  href="https://www.youtube.com/watch?v=Vruid3fDKaA"
                   target="_blank"
                 )
                   span Abrir video
@@ -195,7 +195,7 @@
               p Consulte el video:
               .col-sm-auto
                 a.boton.color-acento-botones.texto-blanco(
-                  href="https://www.youtube.com/watch?v=Omjyi5Wbq_8&list=PLkc5n6npRWkjS1Oni_VR8m2ZJh2pb3E6C&index=7"
+                  href="https://www.youtube.com/watch?v=18A8TeBJ9Vs"
                   target="_blank"
                 )
                   span Abrir video
@@ -209,7 +209,7 @@
               p Consulte el video:
               .col-sm-auto
                 a.boton.color-acento-botones.texto-blanco(
-                  href="https://www.youtube.com/watch?v=SqvF1VSJouU&list=PLkc5n6npRWkjS1Oni_VR8m2ZJh2pb3E6C&index=11"
+                  href="https://www.youtube.com/watch?v=Qvr_FtX7kfk"
                   target="_blank"
                 )
                   span Abrir video

@@ -475,7 +475,7 @@
               p Consulte el video:
             .col-sm-auto
               a.boton.color-acento-botones.texto-blanco(
-                href="https://www.youtube.com/watch?v=ryLeBlADyCA " target="_blank")
+                href="https://www.youtube.com/watch?v=Z9ZCp_foHH4" target="_blank")
                 span Abrir video
                 i.fas.fa-file-video
         .col-lg-6.col-11
@@ -489,7 +489,7 @@
               p Consulte el video:
             .col-sm-auto
               a.boton.color-acento-botones.texto-blanco(
-                href="https://www.youtube.com/watch?v=ryLeBlADyCA " target="_blank")
+                href="https://www.youtube.com/watch?v=FjBGuqsTE5c" target="_blank")
                 span Abrir video
                 i.fas.fa-file-video
         .col-lg-6.col-11
@@ -503,7 +503,7 @@
               p Consulte el video:
             .col-sm-auto
               a.boton.color-acento-botones.texto-blanco(
-                href="https://www.youtube.com/watch?v=ryLeBlADyCA " target="_blank")
+                href="https://www.youtube.com/watch?v=l7TtKJT6UkI" target="_blank")
                 span Abrir video
                 i.fas.fa-file-video
         .col-lg-6.col-11
@@ -517,7 +517,7 @@
               p Consulte el video:
             .col-sm-auto
               a.boton.color-acento-botones.texto-blanco(
-                href="https://www.youtube.com/watch?v=ryLeBlADyCA " target="_blank")
+                href="https://www.youtube.com/watch?v=u3M8N9yZezU" target="_blank")
                 span Abrir video
                 i.fas.fa-file-video
         .col-lg-6.col-11
@@ -531,7 +531,7 @@
               p Consulte el video:
             .col-sm-auto
               a.boton.color-acento-botones.texto-blanco(
-                href="https://www.youtube.com/watch?v=ryLeBlADyCA " target="_blank")
+                href="https://www.youtube.com/watch?v=LTTsA3P-mSs " target="_blank")
                 span Abrir video
                 i.fas.fa-file-video
         .col-lg-6.col-11
@@ -545,7 +545,7 @@
               p Consulte el video:
             .col-sm-auto
               a.boton.color-acento-botones.texto-blanco(
-                href="https://www.youtube.com/watch?v=ryLeBlADyCA " target="_blank")
+                href="https://www.youtube.com/watch?v=P7tGrZIEPQU" target="_blank")
                 span Abrir video
                 i.fas.fa-file-video
         .col-lg-6.col-11

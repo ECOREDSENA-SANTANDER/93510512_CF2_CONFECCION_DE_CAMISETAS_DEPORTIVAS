@@ -675,7 +675,7 @@
             .col-lg-2.mb-4.mb-md-0.col-7.col-md-4
               img.mb-4(src="@/assets/curso/temas/t3/0010.png")
             .col-lg-3
-              h4 Pespuntar cuello
+              h4 Pespunte del cuello
               p Consulte el video:
               .col-sm-auto
                 a.boton.color-acento-botones.texto-blanco(href="https://www.youtube.com/watch?v=dgra9H5rsNs&feature=youtu.be" target="_blank")
@@ -686,7 +686,7 @@
             .col-lg-2.mb-4.mb-md-0.col-7.col-md-4
               img.mb-4(src="@/assets/curso/temas/t3/0011.png")
             .col-lg-3
-              h4 Pespuntar pechera
+              h4 Pespunte de la pechera
               p Consulte el video:
               .col-sm-auto
                 a.boton.color-acento-botones.texto-blanco(href="https://www.youtube.com/watch?v=cQC2lnqP28g&feature=youtu.be" target="_blank")

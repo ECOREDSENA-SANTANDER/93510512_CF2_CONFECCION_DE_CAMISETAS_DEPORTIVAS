@@ -181,7 +181,7 @@ export default {
     {
       termino: 'Insumo',
       significado:
-        'Material complementario requerido para la confección de una prenda, como hilo, rib, entretela, cierre, elástico o accesorio.',
+        'Material complementario requerido para la confección de una prenda, como hilo, <i>rib</i>, entretela, cierre, elástico o accesorio.',
     },
     {
       termino: '<i>Layout</i> de planta',
@@ -241,7 +241,7 @@ export default {
     },
     {
       referencia:
-        'Gutiérrez Rengifo, L. A., Moncayo Velazco, A. X., Tanaka, K., Kimura, F., & Moreno Brand, D. (2011). Manual de patronaje básico e interpretación de diseños. Servicio Nacional de Aprendizaje (SENA); Agencia de Cooperación Internacional del Japón (JICA).',
+        'Gutiérrez Rengifo, L. A., Moncayo Velazco, A. X., Tanaka, K., Kimura, F., y Moreno Brand, D. (2011). Manual de patronaje básico e interpretación de diseños. Servicio Nacional de Aprendizaje (SENA); Agencia de Cooperación Internacional del Japón (JICA).',
       link: '',
     },
     {
@@ -271,7 +271,7 @@ export default {
     },
     {
       referencia:
-        'McAtamney, L., & Corlett, E. N. (1993). RULA: A survey method for the investigation of work-related upper limb disorders. Applied Ergonomics, 24(2), 91–99.',
+        'McAtamney, L., y Corlett, E. N. (1993). RULA: A survey method for the investigation of work-related upper limb disorders. Applied Ergonomics, 24(2), 91–99.',
       link: '',
     },
     {
@@ -281,19 +281,15 @@ export default {
     },
     {
       referencia:
-        'Niebel, B. W., & Freivalds, A. (2009). Ingeniería industrial: Métodos, estándares y diseño del trabajo (12.ª ed.). McGraw-Hill.',
+        'Niebel, B. W., y Freivalds, A. (2009). Ingeniería industrial: Métodos, estándares y diseño del trabajo (12.ª ed.). McGraw-Hill.',
       link: '',
     },
     {
       referencia:
-        'Norton, K., & Eston, R. (Eds.). (2019). Kinanthropometry and exercise physiology (4.ª ed.). Routledge.',
+        'Norton, K., y Eston, R. (Eds.). (2019). Kinanthropometry and exercise physiology (4.ª ed.). Routledge.',
       link: '',
     },
-    {
-      referencia:
-        'Servicio Nacional de Aprendizaje (SENA). (2011). Manual de patronaje básico e interpretación de diseños. Regional Distrito Capital, Centro de Manufactura en Textiles y Cuero.',
-      link: '',
-    },
+
     {
       referencia:
         'Smith, A. (2014). El gran libro de la costura (Nueva ed.). Blume.',
@@ -328,7 +324,7 @@ export default {
         {
           nombre: 'Paola Angélica Castro Salazar',
           cargo: 'Experta temática',
-          centro: 'Centro Agroturístico – Regional Santander',
+          centro: 'Centro Agroturístico - Regional Santander',
         },
         {
           nombre: 'Angelica Varon Quintero',
@@ -353,7 +349,7 @@ export default {
         {
           nombre: 'Maria Alejandra Vera Briceño',
           cargo: 'Animadora y productora multimedia',
-          centro: 'Centro Agroturísticod - Regional Santander',
+          centro: 'Centro Agroturístico - Regional Santander',
         },
       ],
     },

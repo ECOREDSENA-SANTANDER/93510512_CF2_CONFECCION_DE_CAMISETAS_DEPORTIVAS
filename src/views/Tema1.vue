@@ -238,7 +238,7 @@
               tbody
                 tr
                   td #[b Maquinaria principal]
-                  td Plana (1 aguja, 2 agujas), fileteadora (overlock), collarín, recubridora.
+                  td Plana (1 aguja, 2 agujas), fileteadora (#[em overlock]), collarín, recubridora.
                   td Formación de costuras estructurales y de acabado.
 
                 tr

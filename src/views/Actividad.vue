@@ -138,7 +138,7 @@ export default {
         {
           id: 4,
           texto:
-            '¿Qué instrumento del puesto de costura se utiliza para el control dimensional de piezas y verificación de tolerancias?',
+            '¿Qué instrumentos del puesto de costura se utilizan para el control dimensional de piezas y verificación de tolerancias?',
           imagen: '@/assets/actividad/imagen4.png',
           barajarRespuestas: true,
           opciones: [

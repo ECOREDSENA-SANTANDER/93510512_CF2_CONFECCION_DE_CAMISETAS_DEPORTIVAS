@@ -78,13 +78,13 @@
             td Tejido técnico microperforado.
             td Alta transpirabilidad, bajo gramaje, rápida evaporación, ligereza.
             td Hilo poliéster fino, cinta tapacostura, estampado por sublimación.
-            td Reduce carga térmica y mejora #[em confort] en uso prolongado.
+            td Reduce carga térmica y mejora confort en uso prolongado.
             td Camiseta para fútbol, atletismo o eventos deportivos.
 
           tr
             td #[b Uso recreativo]
             td Algodón con poliéster.
-            td Tacto suave, absorción moderada, mayor #[em confort] al contacto, resistencia media.
+            td Tacto suave, absorción moderada, mayor confort al contacto, resistencia media.
             td Hilo poliéster, sesgo o #[i rib], etiqueta tejida.
             td Combina comodidad y resistencia para actividades de baja exigencia.
             td Camiseta para caminata, uniforme recreativo o promoción.
@@ -101,7 +101,7 @@
             td #[b Uniforme institucional deportivo]
             td Poliéster #[i interlock] o #[i jersey].
             td Resistencia al lavado, buena presentación, estabilidad y facilidad de estampación.
-            td Hilo poliéster, cuello #[i rib], escudo transfer o bordado.
+            td Hilo poliéster, cuello #[i rib], escudo #[em transfer] o bordado.
             td Prioriza durabilidad, uniformidad y compatibilidad con personalización.
             td Camiseta para equipos escolares o empresariales.
 
@@ -130,7 +130,7 @@
 
           tr
             td #[b Elegir una tela muy pesada para uso deportivo intensivo]
-            td Aumenta carga térmica y dificulta el #[em confort].
+            td Aumenta carga térmica y dificulta el confort.
             td Produce sensación de calor y menor transpirabilidad.
             td Priorizar tejidos livianos con rápida evaporación.
 

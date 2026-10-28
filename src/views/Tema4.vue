@@ -210,7 +210,7 @@
     p La ergonomía es la disciplina que estudia la relación entre las personas y los entornos en los que desarrollan sus actividades, con el propósito de adaptar las condiciones del puesto a las capacidades y los límites del organismo humano. Su aplicación en el sector de la confección se concreta en ajustes técnicos del mobiliario, la postura y la organización del trabajo, los cuales reducen la carga física y contribuyen al mantenimiento del desempeño a lo largo de la jornada.
 
     .cajon.color-secundario.p-4.mb-4
-      p Antes de continuar, consulte el podcast ''Tu cuerpo también es parte del equipo''. Este recurso explica, mediante una conversación cercana y un ejemplo aplicado al entorno de confección, cómo la correcta organización de la silla, la máquina, el pedal y los materiales puede reducir la fatiga, prevenir molestias musculoesqueléticas y favorecer la precisión durante las operaciones.
+      p Antes de continuar, consulte el pódcast ‘’El cuerpo también es parte del equipo''. Este recurso explica, mediante una conversación cercana y un ejemplo aplicado al entorno de confección, cómo la correcta organización de la silla, la máquina, el pedal y los materiales puede reducir la fatiga, prevenir molestias musculoesqueléticas y favorecer la precisión durante las operaciones.
     
     img(src='@/assets/curso/temas/t4/podcast.png', alt='')
     .row.justify-content-center.g-0(data-aos="fade-right").mb-4
@@ -218,7 +218,7 @@
         .tarjeta.clr--pink.p-4.rounded-0.h-100.color-primario
           .tarjeta.bg-white.p-4
             TarjetaAudio.color-secundario.mb-0.p-3(
-            texto="Podcast: Tu cuerpo también es parte del equipo"
+            texto="Pódcast: El cuerpo también es parte del equipo"
             :audio="require_src('@/assets/curso/temas/t4/podcast.mp3')"
         )
             .indicador--click(v-if="mostrarIndicadorTarjetaAudio")
